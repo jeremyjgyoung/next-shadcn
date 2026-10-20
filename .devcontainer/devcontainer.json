@@ -1,0 +1,8 @@
+{
+  "name": "Project Starter — CodeSandbox",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [3000]
+}
